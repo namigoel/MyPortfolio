@@ -193,6 +193,8 @@ html, body {
 
 
 }
+#yy{
+  color:#fff;}
 .navbar-nav > li + li > a {
     margin-left: 40px;
 }
